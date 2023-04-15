@@ -1,0 +1,151 @@
+body{
+    margin: 0;
+    font-family: 'Merriweather', serif
+
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+.logo{
+    color: #ffffff;
+    font-family: 'Pacifico', cursive;
+    font-size: 2rem;
+    padding: 50px 0px;
+    margin-left: 10%;
+
+}
+
+
+.top-section{
+    background-color: #2A2F4F;
+    /* font-family: 'Montserrat', sans-serif; */
+    font-family: 'Merriweather', serif;
+    padding-bottom: 100px;
+    
+}
+
+
+.heading{
+    text-align: center;
+    
+    padding-left:1.5px;
+    padding-right: 1.5px;
+    
+}
+
+
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: 'Roboto Slab', serif;
+    color: #ffffff;
+    font-size: 20px;
+    background: #191825;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    
+}
+
+
+.btn:hover {
+    background: #FDE2F3;
+    text-decoration: none;
+}
+
+
+
+.security{
+    margin-top: 10%;
+    margin-bottom: 10%;
+    padding: 0 10%;
+}
+
+.security-image{
+    height: auto;
+    width: 15%;
+    float: left;
+    margin: 0 7%;
+    padding-right: 5%;
+}
+
+/* .fiveg{
+    text-align: center;
+} */
+
+.fiveg-image{
+    height: auto;
+    width: 15%;
+    float:right;
+    margin-right: 26%;
+    
+    
+}
+
+.fiveg-info{
+    margin-left: 18%;
+    
+}
+
+.camera{
+    margin-top: 10%;
+    margin-bottom: 10%;
+    padding: 0 10%;
+}
+
+.camera-img{
+    height: auto;
+    width: 15%;
+    float: left;
+    margin: 0 7%;
+    padding-right: 5%;
+}
+.flexingwala{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.learn{
+    color: blue;
+    text-decoration: none;
+    font-weight:200;
+}
+.learn:hover{
+    text-decoration: underline;
+}
+
+.asection{
+    text-align: center;
+    padding: 5%;
+}
+
+.finalsection{
+    /* background-color: #191825; */
+    text-align: center;
+    font-size: small;
+    padding-top: 18px;
+    padding-bottom: 10px;
+    padding-left: 10%;
+    padding-right: 10%;
+    background-color: #F9D949;
+}
+
+.ltp{
+    padding: 0 4px;
+    text-decoration: none;
+    color: #2C3333;
+}
+
+.ltp:hover{
+    color: #539165;
+}
+
+
